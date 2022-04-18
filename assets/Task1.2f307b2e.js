@@ -1,0 +1,1 @@
+import{_ as s,o as t,a,b as e}from"./index.3cd66322.js";var _="/assets/task1Redha.1c8109e0.gif";const o={},c={id:"task1"},r=e("p",{class:"detail"},"Cashier sederhana",-1),i=e("img",{src:_,width:"350",height:"700",alt:"Task1",title:"Task1"},null,-1),n=[r,i];function d(l,h){return t(),a("div",c,n)}var f=s(o,[["render",d]]);export{f as default};

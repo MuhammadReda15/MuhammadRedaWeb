@@ -1,0 +1,1 @@
+import{_ as s,o as t,a,b as e}from"./index.3cd66322.js";var _="/assets/task5.6f85d224.gif";const n={},o={id:"task3"},i=e("p",{class:"detail"},"Cashier dengan intent",-1),c=e("img",{src:_,alt:"Task3",title:"Task3",width:"350",height:"700"},null,-1),r=[i,c];function d(l,h){return t(),a("div",o,r)}var k=s(n,[["render",d]]);export{k as default};

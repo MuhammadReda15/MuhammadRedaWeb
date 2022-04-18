@@ -1,0 +1,1 @@
+import{_ as t,o as s,a,b as e}from"./index.3cd66322.js";var _="/assets/task6.a7216216.gif";const o={},c={id:"task3"},i=e("p",{class:"detail"},"Replika layout Google Meet",-1),r=e("img",{src:_,alt:"Task3",title:"Task3",width:"350",height:"700"},null,-1),n=[i,r];function l(d,k){return s(),a("div",c,n)}var p=t(o,[["render",l]]);export{p as default};

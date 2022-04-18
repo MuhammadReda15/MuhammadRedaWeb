@@ -1,0 +1,1 @@
+import{_ as s,o as t,a,b as e}from"./index.3cd66322.js";var _="/assets/rs.358f4e6f.gif";const o={},c={id:"task3"},r=e("p",{class:"detail"},"Table Row",-1),i=e("img",{src:_,alt:"Task3",title:"Task3",width:"350",height:"700"},null,-1),n=[r,i];function d(l,f){return t(),a("div",c,n)}var k=s(o,[["render",d]]);export{k as default};

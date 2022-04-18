@@ -1,0 +1,1 @@
+import{_ as e,o as s,a,b as t}from"./index.3cd66322.js";var _="/assets/task4.766da145.gif";const o={},n={id:"task3"},c=t("p",{class:"detail"},"Login dengan putExtra",-1),i=t("img",{src:_,alt:"Task3",title:"Task3",width:"350",height:"700"},null,-1),r=[c,i];function d(l,h){return s(),a("div",n,r)}var p=e(o,[["render",d]]);export{p as default};
